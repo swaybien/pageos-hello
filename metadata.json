@@ -1,7 +1,7 @@
 {
-  "name": "pageos-hello",
+  "name": "PageOS Hello",
   "id": "pageos-hello",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A PageOS web application",
   "icon": "",
   "author": "PJ568",
